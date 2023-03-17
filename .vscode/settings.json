@@ -1,0 +1,19 @@
+{
+	"editor.rulers": [120],
+	"search.exclude": {
+		"**/node_modules": true,
+		".yarn/*": true
+	},
+	"typescript.enablePromptUseWorkspaceTsdk": true,
+	"cSpell.words": [
+		"autorole",
+		"Autoroles",
+		"Chatbubbles",
+		"classname",
+		"clonedeep",
+		"discordapp",
+		"nextjs",
+		"tailwindcss"
+	],
+	"typescript.preferences.importModuleSpecifierEnding": "index"
+}
